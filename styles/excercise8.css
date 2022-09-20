@@ -1,0 +1,29 @@
+body {
+    background-color: lightslategrey;
+  }
+p {
+    background-color: rgb(113, 130, 147)
+}
+ul {
+    background-color: rgb(131, 161, 205);
+}
+h1 {
+    background-color: black;
+    color: white;
+}
+h2 {
+    background-color: rgb(150, 210, 148);
+    color: rgb(119, 136, 153)
+}
+blockquote{
+    color: rgb(213, 126, 213);
+}
+.fetts{
+    background-color: rgb(214, 196, 93);
+}
+dt {
+    color: hsl(140, 100%, 70%) ;
+}
+dd{
+    color: hsl(180, 73%, 83%);
+}

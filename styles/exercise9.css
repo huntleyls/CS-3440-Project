@@ -1,0 +1,34 @@
+body{
+    background-color: gray;
+}
+@font-face {
+    font-family: 'lobsterTwoRegular';
+    src: url(../fonts/LobsterTwo-Regular.otf);
+}
+@font-face {
+    font-family: 'lobsterTwoBold';
+    src: url(../fonts/LobsterTwo-Bold.otf);
+}
+
+.line1 {
+    font-family: lobsterTwoRegular;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 8px black;
+    letter-spacing: -2px;
+
+}
+.line2 {
+    font-family: lobsterTwoBold;
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px 8px black;
+    word-spacing: 9px;
+}
+.sun{
+    color: green;
+}
+.go{
+    text-decoration: line-through;
+}
